@@ -14,4 +14,4 @@ Annotations are made manually.
 ![label image](https://raw.githubusercontent.com/RajkumarGalaxy/tea-time/main/teatime_labels.jpg)
 
 Acknowledgement:
-license-free Photographs are collected mostly from Unsplash and PexelBay official websites with thanks.
+license-free Photographs are collected mostly from Unsplash and PixelBay official websites with thanks.
